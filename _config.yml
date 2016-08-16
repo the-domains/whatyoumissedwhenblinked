@@ -1,0 +1,28 @@
+name: whatyoumissedwhenblinked
+favicon: null
+layout_spectrum: 0.8220267225988209
+typography_spectrum: 0.07588816457428038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3778604930266738
+  lightness: 0.7175725235138088
+  saturation: 0.7074093560222536
+  rhythmicContrast: 0.5736371725797653
+purpose: []
